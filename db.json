@@ -1,21 +1,86 @@
 {
-  "interests": [
-    { "id": 1, "name": "Music" },
-    { "id": 2, "name": "Sports" },
-    { "id": 3, "name": "Art" }
+  "foi": [
+    {
+      "id": 1,
+      "name": "Law"
+    },
+    {
+      "id": 1,
+      "name": "Law"
+    },
+    {
+      "id": 1,
+      "name": "Law"
+    },
+    {
+      "id": 2,
+      "name": "Design"
+    },
+    {
+      "id": 2,
+      "name": "Design"
+    },
+    {
+      "id": 3,
+      "name": "Management"
+    },
+    {
+      "id": 3,
+      "name": "Management"
+    },
+    {
+      "id": 4,
+      "name": "CUET"
+    },
+    {
+      "id": 4,
+      "name": "CUET"
+    }
   ],
   "exams": {
     "1": [
-      { "id": 101, "name": "Music Exam 1" },
-      { "id": 102, "name": "Music Exam 2" }
+      {
+        "id": 101,
+        "name": "CLAT UG"
+      },
+      {
+        "id": 102,
+        "name": "CLAT PG"
+      },
+      {
+        "id": 103,
+        "name": "LAW SCHOOL"
+      }
     ],
     "2": [
-      { "id": 201, "name": "Sports Exam 1" },
-      { "id": 202, "name": "Sports Exam 2" }
+      {
+        "id": 210,
+        "name": "NID"
+      },
+      {
+        "id": 211,
+        "name": "NID PG"
+      }
     ],
     "3": [
-      { "id": 301, "name": "Art Exam 1" },
-      { "id": 302, "name": "Art Exam 2" }
+      {
+        "id": 301,
+        "name": "IPMAT"
+      },
+      {
+        "id": 302,
+        "name": "NMIMS"
+      }
+    ],
+    "4": [
+      {
+        "id": 401,
+        "name": "Civil"
+      },
+      {
+        "id": 402,
+        "name": "ADPO"
+      }
     ]
   }
 }
